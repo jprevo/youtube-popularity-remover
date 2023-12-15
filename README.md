@@ -23,6 +23,7 @@ www.youtube.com###thumbnail-attribution
 www.youtube.com##span.yt-formatted-string.style-scope:nth-of-type(1)
 www.youtube.com##span.yt-formatted-string.style-scope:nth-of-type(2)
 www.youtube.com##yt-formatted-string.ytd-playlist-byline-renderer.style-scope.byline-item:nth-of-type(2)
+www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope.delimiter
 ```
 
 ### Licence
