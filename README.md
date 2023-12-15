@@ -24,6 +24,24 @@ www.youtube.com##span.yt-formatted-string.style-scope:nth-of-type(1)
 www.youtube.com##span.yt-formatted-string.style-scope:nth-of-type(2)
 www.youtube.com##yt-formatted-string.ytd-playlist-byline-renderer.style-scope.byline-item:nth-of-type(2)
 www.youtube.com##.ytd-c4-tabbed-header-renderer.style-scope.delimiter
+
+m.youtube.com##span.small-text.ytm-badge-and-byline-item-byline:nth-of-type(3)
+m.youtube.com##span.ytm-badge-and-byline-separator:nth-of-type(4)
+m.youtube.com##.modern-panel-with-inline-badge-subtitle > .secondary-text > .yt-core-attributed-string
+m.youtube.com##.subhead
+m.youtube.com##.slim-video-action-bar-actions > .smartimation--enable-masking.smartimation > .smartimation__content
+m.youtube.com##ytm-badge-and-byline-renderer:nth-of-type(2)
+m.youtube.com##.slim-video-information-title-and-badges > div > .secondary-text
+m.youtube.com##.comments-entry-point-header-count
+m.youtube.com##div.comment-icons:nth-of-type(1)
+m.youtube.com##div.comment-icons:nth-of-type(2)
+m.youtube.com##.typography-body-2a.engagement-panel-section-list-header-context
+m.youtube.com##ytm-sentiment-factoid-renderer
+m.youtube.com##ytm-factoid-renderer:nth-of-type(1)
+m.youtube.com##.ytm-video-description-infocards-section-subtitle
+m.youtube.com##span.c4-tabbed-header-page-header-metadata-item:nth-of-type(2)
+m.youtube.com##.c4-tabbed-header-page-header-metadata-item-delimiter
+m.youtube.com##div.about-channel-section:has(.channel-detail-value)
 ```
 
 ### Licence
